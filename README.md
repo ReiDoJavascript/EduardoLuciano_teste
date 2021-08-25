@@ -1,2 +1,2 @@
-# EduardoLuciano_teste
+# eduardoLuciano_teste
 Meu primeiro repo git
